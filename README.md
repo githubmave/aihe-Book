@@ -72,8 +72,8 @@
 
 
 ##  Use case to illustrates Data Flow from Front end_To_Back end_to DB 
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/c9ca6588-86d5-44af-8971-dba0f05bdd2a)
 
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/df2f1254-61d9-42f6-9b0c-9a3dcb7050b9)
 
 
 
