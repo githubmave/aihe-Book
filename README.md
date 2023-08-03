@@ -62,7 +62,7 @@
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  System based on RESTful API 
 
 
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/dd272d70-4fc7-476c-9c66-85a4c715a203)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/5a2d82f7-9684-4e2c-a069-d94e6d0d9983)
 
 
 
@@ -72,31 +72,7 @@
 
 ##  Use case to illustrates Data Flow from Front end_To_Back end_to DB 
 
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users enter and submit meter reading
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Step one: 
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Views:     www/template/startPoint.html
-
-![image](https://github.com/githubmave/Mobile-Mileage-Tracker/assets/8073738/1e26887f-2ded-4ce0-992c-0497bfc3f745)
-
-
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Step Two:
-
-
-####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Controller:         www/js/app.js
-
-
-  ![image](https://github.com/githubmave/Mobile-Mileage-Tracker/assets/8073738/b04edb23-4ce8-4880-aff1-f740d1a9f6db)
- 
-   
-
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Controller and a view is One-to-One mapping. 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; www/js/app.js
-![image](https://github.com/githubmave/Mobile-Mileage-Tracker/assets/8073738/c44798a8-c976-4fce-b997-1a65002faa76)
-
- 
-
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/007870fe-ec1a-4239-a937-c2d296df4cac)
 
 
 
