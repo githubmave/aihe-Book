@@ -68,9 +68,9 @@
 
 
 
-####  *Use Post data to illustrates Data Flow from Front end_To_Back end_to DB 
-#### =====================================================================
-#####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users Submit a Post
+* ####  Use Post data to illustrates Data Flow from Front end_To_Back end_to DB 
+
+>>> - #####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Users Submit a Post
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
