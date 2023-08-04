@@ -15,11 +15,11 @@
 
 
 ####   Main Packages
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . UI:      &nbsp;&nbsp;&nbsp;&nbsp;       MaterialUI
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . Front end: &nbsp;&nbsp;&nbsp;&nbsp;     React, Redux
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . Back end: &nbsp;&nbsp;&nbsp;&nbsp;      node.js, Knex.js
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . Data storage:  &nbsp;&nbsp;&nbsp;&nbsp; SQLite &nbsp;&nbsp;&nbsp;&nbsp;   
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; . Tools: &nbsp;&nbsp;&nbsp;&nbsp; webpack, babel, npm 
++ #####  UI:      &nbsp;&nbsp;&nbsp;&nbsp;       MaterialUI
++ #####  Front end: &nbsp;&nbsp;&nbsp;&nbsp;     React, Redux
++ ##### Back end: &nbsp;&nbsp;&nbsp;&nbsp;      node.js, Knex.js
++ ##### Data storage:  &nbsp;&nbsp;&nbsp;&nbsp; SQLite &nbsp;&nbsp;&nbsp;&nbsp;   
++ #####  Tools: &nbsp;&nbsp;&nbsp;&nbsp; webpack, babel, npm 
 
 #### How to run
 -[x]#####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; npm install
