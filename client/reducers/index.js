@@ -1,9 +1,8 @@
 import { combineReducers } from 'redux'
-
-import fruits from './fruits'
 import videos from './videos'
+import repos from './repos'
 
 export default combineReducers({
-  fruits,
-  videos
+  videos,
+  repos
 })
