@@ -50,7 +50,7 @@
  * #### Enter the Forum page
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/53841ebd-cff6-471c-a0af-5f61b6b22ecf)
 
-##
+
  * #### create a post in Forum
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/b38b4d69-fd2d-471f-8919-705c00d90e12)
 ##
