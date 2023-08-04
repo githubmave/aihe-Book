@@ -77,7 +77,7 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/0626cac7-7938-4e43-8cd2-b8e7aace84fd)
 
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/d70f00fa-3c78-4fed-9767-514886572815)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/fdce87e6-308a-4d17-9e91-fc64b5eea119)
 
  
    
