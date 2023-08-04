@@ -75,14 +75,14 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/1a3323df-dae6-42f3-95ee-5fdfcbcde7d1)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/b1f931cb-d458-478e-8809-280a4c2e6e7a)
 
 
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/97875f83-ba33-4180-8c8d-099186471c74)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/6a0167cc-fdcb-48f0-afb9-50aad8b1492d)
 
- ![image](https://github.com/githubmave/aihe-Book/assets/8073738/bd229dfa-2bd1-4cef-81ed-aae61ab59bf1)
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/d3bfcb47-3c3d-4701-93eb-855b27947190)
-![image](https://github.com/githubmave/aihe-Book/assets/8073738/24b6758f-ceb1-4321-ae05-d38dd84384a1)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/c535a665-1ad5-4dc4-ab75-7b269f9a6db9)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/ec70a07d-74de-4cb8-97cf-aa58c6377370)
+![image](https://github.com/githubmave/aihe-Book/assets/8073738/e08cff1b-df09-428f-b4ee-ff58ac26828b)
 
 
    
