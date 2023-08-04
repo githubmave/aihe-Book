@@ -22,9 +22,9 @@
 + #####  Tools: &nbsp;&nbsp;&nbsp;&nbsp; webpack, babel, npm 
 
 #### How to run
--[x]#####  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; npm install
-##### -[x] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; npm run dev
-##### -[x] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; npm run test]
++ ##### npm install
++ ##### npm run dev
++ ##### npm run test]
 
 
 
