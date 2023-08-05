@@ -57,7 +57,7 @@
 ##
  * #### A new Post was created
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/49381a1b-f7b2-461e-86ad-1251f7740de4)
-
+ ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 
 
 * ####  Solution Architect
@@ -65,7 +65,7 @@
 
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/235a59ae-c943-474b-95f0-b3251e89bb14)
 
-
+ ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 
 * ####  Use Post data to illustrates Data Flow from Front end_To_Back end_to DB 
  -    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Users Submit a Post
