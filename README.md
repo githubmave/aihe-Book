@@ -1,7 +1,7 @@
 #### Purpose :     
 + ##### &nbsp;&nbsp;&nbsp;&nbsp;  The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  A) Map for this system 's architect
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  B)  Data Flow Chart for one use case
-+ #####  &nbsp;&nbsp;&nbsp;&nbsp;  This App is to calculate petrol cost for business trips, for accountant purpose
++ #####  &nbsp;&nbsp;&nbsp;&nbsp;  This App is as Online library of e-books
 
 
 
