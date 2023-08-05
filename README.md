@@ -16,11 +16,11 @@
 
 
 ####   Main Packages
-+   UI:           MaterialUI
-+   Front end:    React, Redux
-+  Back end:       node.js, Knex.js
-+  Data storage: SQLite 
-+   Tools:   webpack, babel, npm 
++    MaterialUI
++    React, Redux
++    node.js, Knex.js
++   SQLite 
++    webpack, babel, npm 
 
 #### How to run
 +  npm install
