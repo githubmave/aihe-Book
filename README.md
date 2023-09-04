@@ -1,32 +1,6 @@
 #### Purpose :     
 + The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  A) Map for this system 's architect
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  B)  Data Flow Chart for one use case
-+ This App is to assist hiring process
-  
- ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
-
-	  
-####  Prerequisite installation:
-+    node.js                          
-+  npm
-+   react            
-+   materialUI
-
-
-
-
-####   Main Packages
-+    MaterialUI
-+    React, Redux
-+    node.js, Knex.js
-+   SQLite 
-+    webpack, babel, npm 
-
-#### How to run
-+  npm install
-+  npm run dev
-+  npm run test]
-
 
 
 
@@ -83,7 +57,33 @@
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/e08cff1b-df09-428f-b4ee-ff58ac26828b)
 
 
-   
++ This App is to assist hiring process
+  
+ ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+
+	  
+####  Prerequisite installation:
++    node.js                          
++  npm
++   react            
++   materialUI
+
+
+
+
+####   Main Packages
++    MaterialUI
++    React, Redux
++    node.js, Knex.js
++   SQLite 
++    webpack, babel, npm 
+
+#### How to run
++  npm install
++  npm run dev
++  npm run test]
+
+
 
 
  
