@@ -1,4 +1,5 @@
-#### Purpose :     
+#### Purpose :   
++ This App is to assist hiring process
 + The following is:  &nbsp;&nbsp;&nbsp;&nbsp;  A) Map for this system 's architect
   ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  B)  Data Flow Chart for one use case
 
@@ -57,7 +58,7 @@
 ![image](https://github.com/githubmave/aihe-Book/assets/8073738/e08cff1b-df09-428f-b4ee-ff58ac26828b)
 
 
-+ This App is to assist hiring process
+
   
  ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 
